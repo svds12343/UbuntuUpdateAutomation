@@ -33,13 +33,13 @@ To use this script:
 2. **Make the Script Executable**
    - Change the permission of the script file to make it executable:
      ```bash
-     chmod +x auto-update-script.sh
+     chmod +x autoupdatescript.sh
      ```
 
 3. **Run the Script**
    - Execute the script as `root`:
      ```bash
-     sudo ./auto-update-script.sh
+     sudo ./autoupdatescript.sh
      ```
 
 ## Usage
