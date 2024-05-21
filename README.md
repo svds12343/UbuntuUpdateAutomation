@@ -27,7 +27,7 @@ To use this script:
 1. **Download the Script**
    - Clone this repository or download the script directly using the following command:
      ```bash
-     wget https://path-to-your-script/auto-update-script.sh
+     wget https://raw.githubusercontent.com/svds12343/UbuntuUpdateAutomation/main/autoupdatesetup.sh
      ```
 
 2. **Make the Script Executable**
